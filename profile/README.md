@@ -1,11 +1,11 @@
-# 👋 Hi there! I'm Prabhakara Rao Goda
+## 👋 Hi there! I'm Prabhakara Rao Goda
 
 🚀 **Backend Developer | Problem Solver**  
 Hey there! I’m passionate about building backend systems that are not just functional but fast, scalable, and easy to maintain. Solving tough problems with smart, clean code is what excites me most.
 
 ---
 
-## 💻 About Me
+### 💻 About Me
 
 - 🎯 **Currently Working As**: Backend Developer at **Eazybytes IT Solutions Pvt Ltd**  
 - 🔥 **Backend Tech Stack**: Java, Spring Boot, Hibernate, JPA, RESTful APIs, Spring Security  
@@ -14,13 +14,14 @@ Hey there! I’m passionate about building backend systems that are not just fun
 
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements
 
 - ✅ Solved **100+** Data Structures and Algorithm problems on **LeetCode**   
 
 ---
-### EazySchool – Backend Development ([source code](https://github.com/PrabhaKar-Rao/eazyschool-clone))
-### ✨ Key Highlights
+### 💼 Projects
+#### EazySchool – Backend Development ([source code](https://github.com/PrabhaKar-Rao/eazyschool-clone))
+#### ✨ Key Highlights
 
 - Developed **RESTful APIs** for student registration, contact forms, and dashboard features.
 - Implemented **Spring Security** with **custom login**, and **role-based access** (**Admin**, **Student**, **User**).  
@@ -31,7 +32,7 @@ Hey there! I’m passionate about building backend systems that are not just fun
 - **TECH STACK** : **Java, Spring Boot, Spring MVC, Spring Security, JPA, MySQL, Docker, Thymeleaf, Maven, Lombok, Git**.
 ---
 
-### 🔹 Library Management System ([source code](https://github.com/PrabhaKar-Rao/Library-Management-System) ) 
+#### 🔹 Library Management System ([source code](https://github.com/PrabhaKar-Rao/Library-Management-System) ) 
 - Built a robust system featuring book/author management and user registration  
 - Optimized CRUD operations, reducing DB query time by **30%**  
 - Achieved a **20%** faster user experience through backend optimizations.
