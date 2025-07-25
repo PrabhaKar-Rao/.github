@@ -29,36 +29,22 @@ A Spring Boot-based backend for a fictional school management system developed a
 
 This project focuses on implementing robust backend functionality using the Spring Boot ecosystem. It demonstrates the development of secure, validated, and maintainable REST and web endpoints with real-world design patterns and layered architecture.
 
-## 🔧 Tech Stack
-
-- **Spring Boot** (Core framework)
-- **Spring MVC**
-- **Spring Security** (Authentication, Authorization)
-- **Spring Data JPA & Hibernate**
-- **MySQL** (via Docker)
-- **Thymeleaf** (Server-side templating)
-- **Lombok**
-- **ModelMapper**
-- **Maven**
-- **Git**
-
 ## ✨ Key Highlights
 
-- 🔐 **Spring Security Integration:** Custom login form, Remember-Me functionality, and role-based access control for Admin, Student, and User roles.
-- ⚙️ **Layered Architecture:** Structured codebase with Controller → Service → Repository separation using interfaces for maintainability and testing.
-- 🧠 **REST API Development:** Created RESTful endpoints for student registration, course listing, and contact form handling.
-- 🧪 **Input Validation:** Applied JSR 380 (Bean Validation) annotations and custom validators for robust user input enforcement.
-- 🚫 **Global Exception Handling:** Used `@ControllerAdvice` and `@ExceptionHandler` to centralize and simplify error handling across the application.
-- 🖥 **Thymeleaf Integration:** Dynamic HTML rendering and form submission handling for various pages like login, dashboard, and contact forms.
-- 🐳 **Database Setup:** Integrated MySQL using Docker for quick and consistent database environment setup.
-- 🔍 **Logging & Utilities:** Applied SLF4J for logging, Lombok to reduce boilerplate, and ModelMapper for DTO transformations.
+- Developed **RESTful APIs** for student registration, contact forms, and dashboard features, enabling seamless **frontend–backend integration**.  
+- Implemented **Spring Security** with **custom login**, **"Remember Me"**, and **role-based access** (**Admin**, **Student**, **User**).  
+- Followed a **layered architecture** (**Controller → Service → Repository**) to ensure clean separation of concerns and testability.  
+- Used **JPA/Hibernate** for data persistence, with **MySQL** as the database, containerized using **Docker**.  
+- Applied **server-side validations** and **custom annotations**, reducing form input errors and improving data accuracy.
+- Handled **global exceptions** with centralized **error handling** and **user-friendly messages** for improved feedback and debugging.
 
 ## 📈 Performance-Oriented Contributions
 
 - ✅ Integrated server-side validation and global exception handling, reducing form error rate and improving user feedback accuracy.
 - 🧼 Streamlined layered architecture and decoupled components improved maintainability and reduced onboarding time for new developers.
 - 🚀 Efficient use of JPA queries and transaction management optimized data persistence and application response time.
-- - [🔗 Source Code](https://github.com/PrabhaKar-Rao/eazyschool-clone)  
+- **Tech stack**: Java, Spring Boot, Spring MVC, Spring Security, JPA, MySQL, Docker, Thymeleaf, Maven, Lombok, Git.
+- - - [🔗 Source Code](https://github.com/PrabhaKar-Rao/eazyschool-clone)
 
 ---
 
