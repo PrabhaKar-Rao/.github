@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Prabhakara Rao Goda
+## Hi there! 👋 I'm Prabhakara Rao Goda
 
 🚀 **Backend Developer | Problem Solver**  
 Hey there! I’m passionate about building backend systems that are not just functional but fast, scalable, and easy to maintain. Solving tough problems with smart, clean code is what excites me most.
@@ -14,11 +14,6 @@ Hey there! I’m passionate about building backend systems that are not just fun
 
 ---
 
-### 🏆 Achievements
-
-- ✅ Solved **100+** Data Structures and Algorithm problems on **LeetCode**   
-
----
 ### 💼 Projects
 #### EazySchool – Backend Development ([source code](https://github.com/PrabhaKar-Rao/eazyschool-clone))
 #### ✨ Key Highlights
@@ -38,5 +33,8 @@ Hey there! I’m passionate about building backend systems that are not just fun
 - Achieved a **20%** faster user experience through backend optimizations.
 - **TECH STACK** : Java, Spring Framework, Spring MVC, MySQL, JDBC Template.
 ---
+### 🏆 Achievements
 
-> Let's build something amazing together! 🚀
+- ✅ Solved **100+** Data Structures and Algorithm problems on **LeetCode**   
+
+---
