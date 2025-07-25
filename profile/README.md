@@ -7,10 +7,12 @@ Hey there! I’m passionate about building backend systems that are not just fun
 
 ### 💻 About Me
 
-- 🎯 **Currently Working As**: Backend Developer at **Eazybytes IT Solutions**  
-- 🔥 **Backend Tech Stack**: Java, Spring Boot, Hibernate, JPA, RESTful APIs, Spring Security  
-- ⚡ **Tools & Platforms**: Docker, MySQL, Git  
-- 📡 **Networking & Protocols**: HTTP, HTTPS
+- 💻 **Currently Working As**: Backend Developer at **Eazybytes IT Solutions Pvt Ltd**
+- 🧠 **Learning Journey**: Progressed from JDBC Template to Spring Boot applications with Security and Docker
+- 🔧 **Tech Stack**: Java | Spring Boot | Spring Security | Spring MVC | JPA | Hibernate | REST APIs
+- 🛠️ **Tools & Platforms**: Docker | MySQL | Git | IntelliJ | Postman
+- 🌐 **Web & Networking**: HTTP, HTTPS, RESTful Design
+- 📈 **Version Control**: Git & GitHub
 
 ---
 
